@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeterynarzMJ</string>
+    <string name="tytul">Wizyta u weterynarza</string>
+    <string name="imnazw">Wpisz imię i nazwisko</string>
+    <string name="gat">Podaj gatunek</string>
+    <string name="wiek">Podaj wiek</string>
+    <string name="ok">OK</string>
+    <string name="defhour">16:00</string>
+    <string name="defwiek">0</string>
+    <string name="celwizyty">Cel wizyty</string>
+    <string-array name="list">
+        <item>Pies</item>
+        <item>Kot</item>
+        <item>Świnka Morska</item>
+    </string-array>
+</resources>
